@@ -1,3 +1,12 @@
+//Para o produtor rural, 
+cujo gestão da propriedade rural é precária e analógica. 
+O SELVA
+é uma plataforma digital 
+ que promove a gestão digital e comercial da produção rural,
+diferentemente da ONISAFRA. 
+O nosso produto torna os dados dos ativos amazônicos imutáveis, perenes, auditáveis e rastreáveis. 
+
+
 pragma solidity ^0.5.11;
 
 // Contrato Conta SELVA
